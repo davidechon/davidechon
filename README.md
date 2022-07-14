@@ -1,4 +1,4 @@
-<img src= 'copertinaGitHub.jpg' width="100%" />
+<img src= 'copertinaGitHub.png' width="100%" />
 
 Da sempre incuriosito dal mondo della programmazione e della tecnologia, oggi Jr Full Stack Web Developer, con una formazione e relative competenze in ambito sia digitale che analogico. Sempre stimolato da nuove esperienze, mi piace molto il lavoro di squadra. Sono convinto infatti che un buon progetto, al servizio del cliente, derivi dalla collaborazione di più professionisti.
 
