@@ -1,6 +1,6 @@
 <img src= 'copertinaGitHub.png' width="100%" />
 
-Da sempre incuriosito dal mondo della programmazione e della tecnologia, oggi Jr Full Stack Web Developer, con una formazione e relative competenze in ambito sia digitale che analogico. Sempre stimolato da nuove esperienze, mi piace molto il lavoro di squadra. Sono convinto infatti che un buon progetto, al servizio del cliente, derivi dalla collaborazione di più professionisti.
+Ciao, sono Davide Chon di INDRACOM, uno sviluppatore web con la passione nata dall'esigenza di portare sul web un mondo analogico senza snaturarlo offrendo un'esperienza digitale incentrata sull'utente. Con 18 anni di esperienza nel settore. cerco sempre modi utili e pratici per dare vita alle visioni dei miei clienti.
 
 
 Le tecnologie che ho utilizzo sono: HTML5, CSS3, SASS, Bootstrap, JavaScript, Vue JS, JQuery, PHP, MySQL e Laravel.
